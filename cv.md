@@ -1,5 +1,7 @@
 # Serhii Sokolov
 
+![My photo](./img/iam_small.jpg)
+
 ## Front-End Developer (React)
 
 ### Contacts
@@ -30,3 +32,20 @@ work is important for me.
 - Database Services: MongoDB, MySQL
 - IDE: Sublime Text, Visual Studio Code
 - Agile, SCRUM, Trello
+
+### Work Experience (educational projects)
+
+- [SlimMom](https://team-work-goit-slim-mom.netlify.app/)
+  [React Router DOM, React Redux, Node.js](https://github.com/MarinaTripetska/slim-mom-front)
+- [Filmoteka](https://Dron010.github.io/filmoteka)
+  [HTML5, SCSS, JavaScript, Parcel, npm-packages, API](https://github.com/Dron010/filmoteka.git)
+- [**Hell-English**](https://falconoff.github.io/hell-eng/)
+  [HTML5, SCSS, Parcel, JavaScript](https://github.com/Falconoff/hell-eng)
+
+### Education
+
+[Full-Stack Web Developer](https://drive.google.com/file/d/17cwQWzK9jPTkT_SDDooC_ToiQu_p6qCZ/view?usp=sharing)
+
+### English
+
+Pre-Intermediate
