@@ -11,10 +11,17 @@
 - [GitHub](https://github.com/Falconoff)
 - [LinkedIn](www.linkedin.com/in/serhii-sokolov-1646171bb)
 
+### Summary
+
 I strive to become a highly skilled front-end developer and to work in a
 friendly, result-oriented team of web-developers. Responsible and hardworking, I
 wish to master new technologies and tools. Creating and seeing results of my
 work is important for me.
+
+My main technology stack: HTML5, CSS3, JavaScript, React / Redux. I have
+implemented several non-commercial web-projects on my own or alongside with my
+teammates. Many years of experience in teamwork helped me learn to successfully
+cooperate with others and bring out the best of my work in teams.
 
 ### Tech Skills
 
@@ -35,9 +42,9 @@ work is important for me.
 
 ### Work Experience (educational projects)
 
-- [SlimMom](https://team-work-goit-slim-mom.netlify.app/)
+- [**SlimMom**](https://team-work-goit-slim-mom.netlify.app/)
   [React Router DOM, React Redux, Node.js](https://github.com/MarinaTripetska/slim-mom-front)
-- [Filmoteka](https://Dron010.github.io/filmoteka)
+- [**Filmoteka**](https://Dron010.github.io/filmoteka)
   [HTML5, SCSS, JavaScript, Parcel, npm-packages, API](https://github.com/Dron010/filmoteka.git)
 - [**Hell-English**](https://falconoff.github.io/hell-eng/)
   [HTML5, SCSS, Parcel, JavaScript](https://github.com/Falconoff/hell-eng)
